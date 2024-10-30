@@ -48,7 +48,7 @@ git clone https://github.com/votre-username/urban-sustainable-move-website.git
 - Modifiez le contenu dans `index.html`
 
 ## Contact & Support
-Pour toute question : contact@usmove.com
+Pour toute question : jean.janel@etu.unilasalle.fr
 
 ## Contribution
 1. Fork le projet
